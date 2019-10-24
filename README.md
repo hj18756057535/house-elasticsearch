@@ -4,3 +4,5 @@
 技术栈：springboot、spring data jpa、spring security、thymeleaf、spring session、
 
 环境：mqsql、h2、redis、kafka、elasticsearch、qiniu cloud、
+
+同时基于百度地图以及es完成区域房源信息统计查找
